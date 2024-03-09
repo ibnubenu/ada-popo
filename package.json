@@ -1,0 +1,24 @@
+{
+  "name": "ada-popo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnubenu/ada-popo.git"
+  },
+  "author": "ibnubenu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnubenu/ada-popo/issues"
+  },
+  "homepage": "https://github.com/ibnubenu/ada-popo#readme",
+  "dependencies": {
+    "dn-hokage": "^1.0.0",
+    "dn-yuri": "^1.0.0",
+    "ibnusibenu": "^1.0.0"
+  }
+}
